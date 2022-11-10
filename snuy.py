@@ -1,5 +1,5 @@
 import  sys,os
 if __name__=='__main__':
- ll=os.popen('ls -a').read()
- z=5*str(ll)
- print z+str(3)
+ ll=os.popen('ls -l').read()
+ z=2*str(ll)
+ print z+str(29)
