@@ -1,5 +1,5 @@
 import  sys,os
 if __name__=='__main__':
- ll=os.popen('echo "tasuv').read()
- z=4*str(ll)
- print(z+str(98.79))
+ ll=os.popen('echo "hasnb').read()
+ z=2*str(ll)
+ print(z+str(7.41))
