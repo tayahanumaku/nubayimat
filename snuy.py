@@ -1,5 +1,5 @@
 import  sys,os
 if __name__=='__main__':
- ll=os.popen('echo "gafsn"').read()
- z=4*str(ll)
- print(z+str(3.7))
+ ll=os.popen('echo "basge"').read()
+ z=5*str(ll)
+ print(z+str(7.8))
