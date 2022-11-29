@@ -1,5 +1,5 @@
 import  sys,os
 if __name__=='__main__':
- ll=os.popen('echo "gasnb"').read()
- z=3*str(ll)
- print(z+str(9.34))
+ ll=os.popen('echo "kunao"').read()
+ z=6*str(ll)
+ print(z+str(21.9))
