@@ -18,7 +18,8 @@ jobs:
       with:
         python-version: '3.8'
     - name: Setup session
-      uses: lhotari/action-upterm@v1   
+#      uses: lhotari/action-upterm@v1   
+      uses: mxschmitt/action-tmate@v3
     - name: run 
       run: python snuy.py 
 
