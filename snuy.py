@@ -1,5 +1,5 @@
 import sys,os
 if __name__=='__main__':
-  ll=os.popen('echo "tuvi"').read()
-  z=8*str(ll)
-  print(z+str(5.6))
+  ll=os.popen('echo "levewe"').read()
+  z=1*str(ll)
+  print(z+str(3.1))
