@@ -1,5 +1,5 @@
 import sys,os
 if __name__=='__main__':
-  ll=os.popen('echo "netika"').read()
-  z=7*str(ll)
-  print(z+str(9.4))
+  ll=os.popen('echo "digodo"').read()
+  z=3*str(ll)
+  print(z+str(2.5))
